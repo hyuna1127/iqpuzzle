@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	int ** arr;
-	int temp;
+	int temp; //temp value
 	int row = 0, col = 0; // initialize row and col value to zero
 
 	do
